@@ -3,7 +3,7 @@
 
 package day03
 
-class Day02Test extends munit.FunSuite:
+class Day03Test extends munit.FunSuite:
   test("part1 sample") {
     assertEquals(part1(utils.readInput("day03/sample.txt")), 4361)
   }
